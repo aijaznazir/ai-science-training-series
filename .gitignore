@@ -1,3 +1,6 @@
+#example
+*.pyc
+
 # cobalt logs
 *.cobaltlog
 *.output
